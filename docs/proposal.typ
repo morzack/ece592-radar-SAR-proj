@@ -105,7 +105,8 @@ $ sigma_("corner") = (4 pi a^4) / (3 lambda^2) approx 20 ["dB"m^2] $
   )
 ) <figure:asd>
 
-This suggests that we can detect a corner reflector up to $approx 40$ m away using the TI radar.
+This suggests that we can detect a corner reflector up to $approx 7$ m away using the TI radar.
+7m is fairly short -- we won't be able to take images of a large scene (e.g. architecture outside), but it's still long enough for in-lab measurements to give reasonable results.
 
 The other constraint on sampling, in FMCW, is the unambiguous range, which is given in @eq:unambig.
 
