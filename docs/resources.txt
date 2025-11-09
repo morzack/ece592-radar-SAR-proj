@@ -1,0 +1,6 @@
+various resources/notes that can be used for developing this project out
+
+MATLAB SAR data generation: https://www.mathworks.com/help/radar/ug/simulated-land-scenes-for-synthetic-aperture-radar-image-formation.html
+sar-sim tooling for FMCW radar simulation: https://github.com/IMS-AS-LUH/sar-sim?tab=readme-ov-file
+henrik's SAR/drone project (previous projects dive more into SAR imaging proper): https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html
+GOTCHA-Back's open-source implementation of SAR backprojection for working with GOTCHA dataset: https://github.com/tbensonatl/gotcha-back/tree/main
