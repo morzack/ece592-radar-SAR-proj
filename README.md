@@ -6,5 +6,13 @@ Beyond the basic application of just resolving an image, this will hopefully go 
 
 ## env setup
 
-`uv venv`
+`uv venv --p 3.10.13`
+`uv pip install -r requirements.txt`
+`uv pip install torch torchvision --index-url https://download.pytorch.org/whl/rocm6.4`
+
+verify gpu availability
+
+`python`
+`import torch`
+`torch.cuda.is_available()`
 
