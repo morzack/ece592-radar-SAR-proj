@@ -1,3 +1,4 @@
 scipy
 special_functions
 matplotlib
+amdsmi
